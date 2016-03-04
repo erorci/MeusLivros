@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MeusLivros</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_form_livros">FormLivros</string>
+    <string name="form_livros_titulo">Título</string>
+    <string name="form_livros_autor">Autor</string>
+    <string name="form_livros_paginas">Páginas</string>
+
+</resources>
